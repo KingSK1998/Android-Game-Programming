@@ -1,2 +1,0 @@
-# Android-Game-Programming
-Learning
